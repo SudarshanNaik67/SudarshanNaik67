@@ -97,10 +97,19 @@ $ status --current
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SudarshanNaik67&theme=radical&no-frame=true&margin-w=15&column=7" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/Cryptography-7B2FF7?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Cryptography"/>
+  <img src="https://img.shields.io/badge/Information%20Security-FF2E97?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Information Security"/>
+  <img src="https://img.shields.io/badge/Networking-00EAFF?style=for-the-badge&logo=cisco&logoColor=black" alt="Networking"/>
+  <img src="https://img.shields.io/badge/IAM-7B2FF7?style=for-the-badge&logo=auth0&logoColor=white" alt="IAM"/>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Secure%20Development-00EAFF?style=for-the-badge&logo=security&logoColor=black" alt="Secure Development"/>
+  <img src="https://img.shields.io/badge/Password%20Security-FF2E97?style=for-the-badge&logo=keycdn&logoColor=white" alt="Password Security"/>
+  <img src="https://img.shields.io/badge/File%20Integrity-7B2FF7?style=for-the-badge&logo=datadog&logoColor=white" alt="File Integrity"/>
+</p>
+
+
 
 ### 🐍 Contribution Snake
 
