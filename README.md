@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Sudarshan%20Naik&fontSize=48&fontColor=c0caf5&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Sudarshan Naik header banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Sudarshan%20Naik&fontSize=48&fontColor=c0caf5&fontAlignY=35&animation=fadeIn&descdescAlignY=58&descSize=18" alt="Sudarshan Naik header banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-* 👋 Full-stack developer who learns by building — from ordering and travel applications to student-management and cybersecurity projects.
+* 👋 BTECH CSE FINAL YEAR STUDENT who learns by building — from ordering and travel applications to student-management and cybersecurity projects.
 * 🧩 Core languages: **Java, PHP, JavaScript** — currently extending into **Next.js**.
 * 🔐 Interested in **Cybersecurity, cryptography, secure application development, and software security**.
 * 🌱 Growing this profile steadily and shipping new repositories regularly.
