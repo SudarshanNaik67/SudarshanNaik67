@@ -38,7 +38,7 @@ $ cat interests.txt
 Cybersecurity, Networking, IAM, Databases, Software Development
 
 $ status --current
-[ACTIVE] Open to internships & entry-level roles in Cybersecurity / Software Development
+[ACTIVE] Open to internships & entry-level roles.
 ```
 
 ---
